@@ -95,10 +95,6 @@ No custom DAX measures were used in this project. The dashboard uses Power BI's 
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add a screenshot of your dashboard inside the **Images** folder and update the path below.
-
 ## Dashboard Preview
 
 ![Dashboard](Dashboard/Dashboard.png)
